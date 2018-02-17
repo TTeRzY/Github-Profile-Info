@@ -1,5 +1,6 @@
-# Github-AJAX
-Using AJAX to take info with JSONparse
+# Github-Profile-Viewer-with-AngularJS
+
+Using AngularJS to fetch data from Github 
 
 
-Link : https://tterzy.github.io/Github-AJAX/
+Link : https://tterzy.github.io/Github-Profile-Viewer-with-AngularJS/
